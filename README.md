@@ -32,5 +32,5 @@ python serve/app.py
 
 ### Run with Docker
 ```bash
-docker run -p 5001:5001 ghcr.io/vidon/mlops-train-and-serve-model:latest
+docker run -p 5001:5001 ghcr.io/vidon/mlops-train-and-serve-model:v0.0.1
 ```
