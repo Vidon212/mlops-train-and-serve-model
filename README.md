@@ -1,4 +1,4 @@
-# mlops-train-model
+# mlops-train-and-serve-model
 This project implements a Continuous Training (CT) pipeline using GitHub Actions.
 
 ## Continuous Training
